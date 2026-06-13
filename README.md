@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditanupam)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akanupam)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akanupam)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditanupam@gmail.com)&nbsp;
 [![Phone](https://img.shields.io/badge/+91--8002809961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918002809961)
